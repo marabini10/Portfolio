@@ -10,4 +10,6 @@ Sou formado em Tecnologia em Logística e atuo de forma autônoma no desenvolvim
 
 Acredito em soluções práticas, bem estruturadas e orientadas a resultados. Busco aplicar lógica, dados e tecnologia para simplificar rotinas e resolver problemas reais, tanto em projetos profissionais quanto pessoais.
 
+### Projetos
+
 ### Contato
