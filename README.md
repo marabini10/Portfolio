@@ -13,7 +13,7 @@ Acredito em soluções práticas, bem estruturadas e orientadas a resultados. Bu
 ### Projetos
 Projeto | Tema |Histórico|
 |------|--------|-------|
-|Projetos Acadêmicos - Fatec | Logística - Anaálise de Dados | [Ver Arquivo]() | 
+|Projetos Acadêmicos - Fatec | Logística - Anaálise de Dados | [Ver Projetos]() | 
 
 
 ### Contato
